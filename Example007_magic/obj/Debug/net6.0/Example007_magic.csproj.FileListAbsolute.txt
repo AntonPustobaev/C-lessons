@@ -1,0 +1,15 @@
+D:\C#lesson\Exaples1.1\Example007_magic\bin\Debug\net6.0\Example007_magic.exe
+D:\C#lesson\Exaples1.1\Example007_magic\bin\Debug\net6.0\Example007_magic.deps.json
+D:\C#lesson\Exaples1.1\Example007_magic\bin\Debug\net6.0\Example007_magic.runtimeconfig.json
+D:\C#lesson\Exaples1.1\Example007_magic\bin\Debug\net6.0\Example007_magic.dll
+D:\C#lesson\Exaples1.1\Example007_magic\bin\Debug\net6.0\Example007_magic.pdb
+D:\C#lesson\Exaples1.1\Example007_magic\obj\Debug\net6.0\Example007_magic.csproj.AssemblyReference.cache
+D:\C#lesson\Exaples1.1\Example007_magic\obj\Debug\net6.0\Example007_magic.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#lesson\Exaples1.1\Example007_magic\obj\Debug\net6.0\Example007_magic.AssemblyInfoInputs.cache
+D:\C#lesson\Exaples1.1\Example007_magic\obj\Debug\net6.0\Example007_magic.AssemblyInfo.cs
+D:\C#lesson\Exaples1.1\Example007_magic\obj\Debug\net6.0\Example007_magic.csproj.CoreCompileInputs.cache
+D:\C#lesson\Exaples1.1\Example007_magic\obj\Debug\net6.0\Example007_magic.dll
+D:\C#lesson\Exaples1.1\Example007_magic\obj\Debug\net6.0\refint\Example007_magic.dll
+D:\C#lesson\Exaples1.1\Example007_magic\obj\Debug\net6.0\Example007_magic.pdb
+D:\C#lesson\Exaples1.1\Example007_magic\obj\Debug\net6.0\Example007_magic.genruntimeconfig.cache
+D:\C#lesson\Exaples1.1\Example007_magic\obj\Debug\net6.0\ref\Example007_magic.dll
