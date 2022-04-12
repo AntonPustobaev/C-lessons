@@ -1,0 +1,15 @@
+D:\C#lesson\Exaples1.1\Example005_condition\obj\Debug\net6.0\Example005_condition.csproj.AssemblyReference.cache
+D:\C#lesson\Exaples1.1\Example005_condition\obj\Debug\net6.0\Example005_condition.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#lesson\Exaples1.1\Example005_condition\obj\Debug\net6.0\Example005_condition.AssemblyInfoInputs.cache
+D:\C#lesson\Exaples1.1\Example005_condition\obj\Debug\net6.0\Example005_condition.AssemblyInfo.cs
+D:\C#lesson\Exaples1.1\Example005_condition\obj\Debug\net6.0\Example005_condition.csproj.CoreCompileInputs.cache
+D:\C#lesson\Exaples1.1\Example005_condition\bin\Debug\net6.0\Example005_condition.exe
+D:\C#lesson\Exaples1.1\Example005_condition\bin\Debug\net6.0\Example005_condition.deps.json
+D:\C#lesson\Exaples1.1\Example005_condition\bin\Debug\net6.0\Example005_condition.runtimeconfig.json
+D:\C#lesson\Exaples1.1\Example005_condition\bin\Debug\net6.0\Example005_condition.dll
+D:\C#lesson\Exaples1.1\Example005_condition\bin\Debug\net6.0\Example005_condition.pdb
+D:\C#lesson\Exaples1.1\Example005_condition\obj\Debug\net6.0\Example005_condition.dll
+D:\C#lesson\Exaples1.1\Example005_condition\obj\Debug\net6.0\refint\Example005_condition.dll
+D:\C#lesson\Exaples1.1\Example005_condition\obj\Debug\net6.0\Example005_condition.pdb
+D:\C#lesson\Exaples1.1\Example005_condition\obj\Debug\net6.0\Example005_condition.genruntimeconfig.cache
+D:\C#lesson\Exaples1.1\Example005_condition\obj\Debug\net6.0\ref\Example005_condition.dll
