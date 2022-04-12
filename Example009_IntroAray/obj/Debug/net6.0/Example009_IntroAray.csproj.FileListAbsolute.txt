@@ -1,0 +1,15 @@
+D:\C#lesson\Exaples1.1\Example009_IntroAray\bin\Debug\net6.0\Example009_IntroAray.exe
+D:\C#lesson\Exaples1.1\Example009_IntroAray\bin\Debug\net6.0\Example009_IntroAray.deps.json
+D:\C#lesson\Exaples1.1\Example009_IntroAray\bin\Debug\net6.0\Example009_IntroAray.runtimeconfig.json
+D:\C#lesson\Exaples1.1\Example009_IntroAray\bin\Debug\net6.0\Example009_IntroAray.dll
+D:\C#lesson\Exaples1.1\Example009_IntroAray\bin\Debug\net6.0\Example009_IntroAray.pdb
+D:\C#lesson\Exaples1.1\Example009_IntroAray\obj\Debug\net6.0\Example009_IntroAray.csproj.AssemblyReference.cache
+D:\C#lesson\Exaples1.1\Example009_IntroAray\obj\Debug\net6.0\Example009_IntroAray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#lesson\Exaples1.1\Example009_IntroAray\obj\Debug\net6.0\Example009_IntroAray.AssemblyInfoInputs.cache
+D:\C#lesson\Exaples1.1\Example009_IntroAray\obj\Debug\net6.0\Example009_IntroAray.AssemblyInfo.cs
+D:\C#lesson\Exaples1.1\Example009_IntroAray\obj\Debug\net6.0\Example009_IntroAray.csproj.CoreCompileInputs.cache
+D:\C#lesson\Exaples1.1\Example009_IntroAray\obj\Debug\net6.0\Example009_IntroAray.dll
+D:\C#lesson\Exaples1.1\Example009_IntroAray\obj\Debug\net6.0\refint\Example009_IntroAray.dll
+D:\C#lesson\Exaples1.1\Example009_IntroAray\obj\Debug\net6.0\Example009_IntroAray.pdb
+D:\C#lesson\Exaples1.1\Example009_IntroAray\obj\Debug\net6.0\Example009_IntroAray.genruntimeconfig.cache
+D:\C#lesson\Exaples1.1\Example009_IntroAray\obj\Debug\net6.0\ref\Example009_IntroAray.dll

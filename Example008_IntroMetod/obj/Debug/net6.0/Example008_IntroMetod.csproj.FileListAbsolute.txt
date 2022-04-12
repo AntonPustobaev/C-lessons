@@ -1,0 +1,15 @@
+D:\C#lesson\Exaples1.1\Example008_IntroMetod\bin\Debug\net6.0\Example008_IntroMetod.exe
+D:\C#lesson\Exaples1.1\Example008_IntroMetod\bin\Debug\net6.0\Example008_IntroMetod.deps.json
+D:\C#lesson\Exaples1.1\Example008_IntroMetod\bin\Debug\net6.0\Example008_IntroMetod.runtimeconfig.json
+D:\C#lesson\Exaples1.1\Example008_IntroMetod\bin\Debug\net6.0\Example008_IntroMetod.dll
+D:\C#lesson\Exaples1.1\Example008_IntroMetod\bin\Debug\net6.0\Example008_IntroMetod.pdb
+D:\C#lesson\Exaples1.1\Example008_IntroMetod\obj\Debug\net6.0\Example008_IntroMetod.csproj.AssemblyReference.cache
+D:\C#lesson\Exaples1.1\Example008_IntroMetod\obj\Debug\net6.0\Example008_IntroMetod.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#lesson\Exaples1.1\Example008_IntroMetod\obj\Debug\net6.0\Example008_IntroMetod.AssemblyInfoInputs.cache
+D:\C#lesson\Exaples1.1\Example008_IntroMetod\obj\Debug\net6.0\Example008_IntroMetod.AssemblyInfo.cs
+D:\C#lesson\Exaples1.1\Example008_IntroMetod\obj\Debug\net6.0\Example008_IntroMetod.csproj.CoreCompileInputs.cache
+D:\C#lesson\Exaples1.1\Example008_IntroMetod\obj\Debug\net6.0\Example008_IntroMetod.dll
+D:\C#lesson\Exaples1.1\Example008_IntroMetod\obj\Debug\net6.0\refint\Example008_IntroMetod.dll
+D:\C#lesson\Exaples1.1\Example008_IntroMetod\obj\Debug\net6.0\Example008_IntroMetod.pdb
+D:\C#lesson\Exaples1.1\Example008_IntroMetod\obj\Debug\net6.0\Example008_IntroMetod.genruntimeconfig.cache
+D:\C#lesson\Exaples1.1\Example008_IntroMetod\obj\Debug\net6.0\ref\Example008_IntroMetod.dll
